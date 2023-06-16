@@ -2,7 +2,7 @@ import { Button, Image, Text, View } from "react-native";
 
 import styles from './styles';
 
-export default function Rpg(props){
+export default function Dashboard(props){
     return (
             <View style={styles.container}>
                 <View style={styles.viewImg}>
